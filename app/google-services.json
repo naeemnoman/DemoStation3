@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "604194349107",
+    "project_id": "loactionshareapp",
+    "storage_bucket": "loactionshareapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604194349107:android:7b56ebc147eac26aca0346",
+        "android_client_info": {
+          "package_name": "com.example.job3loactionshareapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqrE-Y1YdFHgdfGRBw_8qTlSINCpRaWoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
